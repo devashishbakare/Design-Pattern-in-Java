@@ -1,0 +1,1 @@
+ implement a scenario where a client needs JSON data, but the service provides XML data.

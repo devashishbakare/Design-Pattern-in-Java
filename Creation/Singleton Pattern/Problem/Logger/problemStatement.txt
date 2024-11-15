@@ -1,0 +1,12 @@
+Problem Statement
+You are building an application that needs to log various events, such as user actions, errors, and status updates. The log messages should be stored consistently in a single file, and all parts of the application should access the same logger instance to avoid creating duplicate logs or multiple files.
+
+Instructions
+Create a Logger Singleton Class:
+The class should have a method log(String message) that appends the message to the log file.
+Use the Singleton pattern to ensure only one instance of the Logger class is created.
+Simulate Logging from Multiple Parts of the Application:
+Create a couple of different classes (e.g., UserService and OrderService) that log events.
+Both classes should use the same Logger instance to write messages.
+Verify Singleton Behavior:
+Ensure that even if UserService and OrderService try to access the logger, only one instance is used and all messages are logged to the same file.

@@ -1,0 +1,12 @@
+You have to create a system where you can customize the computer building process
+
+- You have to create a computer class, where you can create a base computer
+- You can add the customization of below things
+
+    Required Things
+    - Ram
+    - Processor
+
+    Optional Things
+    - Graphics Card
+    - storage

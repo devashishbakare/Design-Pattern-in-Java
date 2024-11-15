@@ -1,0 +1,2 @@
+you’re at a coffee shop. You can order a basic coffee, but you might want to add extra features like milk, sugar, or whipped cream
+Create this system, where you can easily add extra things to your coffee

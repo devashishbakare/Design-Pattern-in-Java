@@ -1,0 +1,7 @@
+You have to create list of object that user has specified, imagine user is going to pizza shop and he just ordered a list of pizza's and he gets the list of pizza in few minutes
+
+Create a Client having a orders
+Create A Pizza Factory(factory) where you prepared a pizza
+Create Different Pizza
+
+All things should Have happened shooth without user noticing much
