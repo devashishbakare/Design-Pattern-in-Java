@@ -1,4 +1,14 @@
 When to Use the Bridge Pattern:
+In Easy words : if there are multiple product and each product has the multiple variation so its good indication that we should use the bridge pattern,
+example1 :
+Pizza -> (veg, chicken, cheese)
+Bridge : Connect product with variation
+variation -> ( big, small, medium size)
+
+example2 :
+Devices -> (TV, Music, Radio)
+bridge : connect above product with below variation ( a common Remote)
+variation -> ( Basic Remote, Advance Remove, In App remote)
 
 Complex Product Variations:
 When you have many products (e.g., pizzas, cars, devices) and each product can have multiple variations (e.g., size, type, color, feature set).
