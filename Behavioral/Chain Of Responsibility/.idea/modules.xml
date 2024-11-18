@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chain Of Responsibility.iml" filepath="$PROJECT_DIR$/.idea/Chain Of Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer Care Issue Resolver/Customer Care Issue Resolver.iml" filepath="$PROJECT_DIR$/Customer Care Issue Resolver/Customer Care Issue Resolver.iml" />
+    </modules>
+  </component>
+</project>
