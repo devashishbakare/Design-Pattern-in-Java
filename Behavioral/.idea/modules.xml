@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Behavioral.iml" filepath="$PROJECT_DIR$/.idea/Behavioral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain Of Responsibility/Chain Of Responsibility.iml" filepath="$PROJECT_DIR$/Chain Of Responsibility/Chain Of Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Editor/Editor.iml" filepath="$PROJECT_DIR$/Command/Editor/Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Map/Map.iml" filepath="$PROJECT_DIR$/Strategy/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Remote Command/Remote Command.iml" filepath="$PROJECT_DIR$/Command/Remote Command/Remote Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/SortArray/SortArray.iml" filepath="$PROJECT_DIR$/Strategy/SortArray/SortArray.iml" />
+    </modules>
+  </component>
+</project>
