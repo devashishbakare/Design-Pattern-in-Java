@@ -1,0 +1,13 @@
+ This pattern is particularly useful when an object’s behavior depends on its state, and the state can change during the object’s lifecycle.
+
+ Here we create interface of system which handle incoming request
+ object should have class and class should implement the interface
+ we create a context class where we keep the reference of object and use the object
+
+ Some example where we can use this state patterns
+
+ 1) Vending machine
+    state : ready to serve -> product selection -> payment processing -> Product out -> out of stock
+ 2) Traffic Signal
+    state : Red(stop) -> yellow(ready to go) -> green(go)
+
